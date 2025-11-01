@@ -1,0 +1,21 @@
+{
+  "name": "logistics-backend",
+  "version": "1.0.0",
+  "description": "Backend API server for logistics shipment tracking",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "logistics",
+    "shipment",
+    "tracking"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}
